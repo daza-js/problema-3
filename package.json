@@ -1,0 +1,15 @@
+{
+  "name": "problem-3",
+  "version": "1.0.0",
+  "description": "Calculo del MCD y MCM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Mauricio Daza",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
